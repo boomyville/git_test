@@ -1,0 +1,1 @@
+This document was edited with nano using the terminal
